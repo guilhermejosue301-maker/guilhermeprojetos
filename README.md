@@ -42,8 +42,6 @@ Aqui estão alguns dos meus projetos:
 
 > “A melhor forma de aprender é construindo.”
 
----
 
-Repositório: `guilhermeprojetos` — site estático simples com páginas HTML (ex.: `index.html`, `projeto.html`, `cadastro.html`).
 
  
