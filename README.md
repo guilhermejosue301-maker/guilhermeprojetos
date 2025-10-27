@@ -17,20 +17,13 @@ Seja bem-vindo ao meu GitHub.
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-
   />
-  <img
-    alingn="left"
-    alt="JavaScript"
-    title="JavaScript"
-    width="30px"
-    style="padding-ringht: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-
+<br/>
 <br/>
 
 ## -Projetos
     Aqui estão alguns dos meus projetos:
+- "[Calculadora simples](https://github.com/guilhermejosue301-maker/guilhermejosue301-maker/tree/main/Projeto)
 - "[SiteONG](https://github.com/guilhermejosue301-maker/guilhermeprojetos/tree/main/Ong)
 
    
