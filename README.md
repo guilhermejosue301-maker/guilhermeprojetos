@@ -40,7 +40,10 @@ Aqui estão alguns dos meus projetos:
 - [LinkedIn](https://www.linkedin.com/in/guilherme-josu%C3%A9-62405934b/)
 - [Instagram](https://www.instagram.com/guilherme.josue/)
 
- “A melhor forma de aprender é construindo.”
- 
+> “A melhor forma de aprender é construindo.”
+
+---
+
+Repositório: `guilhermeprojetos` — site estático simples com páginas HTML (ex.: `index.html`, `projeto.html`, `cadastro.html`).
 
  
