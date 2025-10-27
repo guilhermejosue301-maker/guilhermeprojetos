@@ -34,7 +34,7 @@ Seja bem-vindo ao meu GitHub.
 Aqui estão alguns dos meus projetos:
 
 - [Calculadora simples](https://github.com/guilhermejosue301-maker/guilhermejosue301-maker/tree/main/Projeto)
-- [SiteONG](https://github.com/guilhermejosue301-maker/guilhermeprojetos/tree/main/Ong)
+- [SiteONG](https://guilhermejosue301-maker.github.io/guilhermeprojetos/index.html)
 
 ## Como falar comigo
 - [LinkedIn](https://www.linkedin.com/in/guilherme-josu%C3%A9-62405934b/)
