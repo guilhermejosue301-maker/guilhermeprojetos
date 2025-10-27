@@ -27,7 +27,7 @@ body {
     padding: 0 20px;
 }
 
-/* ---- Cabeçalho e Navegação ---- */
+
 header {
     background-color: var(--primary-color);
     color: #fff;
@@ -68,7 +68,7 @@ header nav a:hover, header nav a.active {
     border-color: var(--accent-color);
 }
 
-/* ---- Estilos do Corpo Principal (Main) ---- */
+
 main {
     padding: 2rem 0;
 }
@@ -109,7 +109,7 @@ main {
     padding: 4rem 0;
 }
 
-/* ---- Página de Projetos ---- */
+
 .page-title {
     text-align: center;
     padding-bottom: 2rem;
@@ -157,7 +157,7 @@ main {
     padding: 0 1rem 1.5rem 1rem;
 }
 
-/* ---- Página de Cadastro e Formulário ---- */
+
 .form-section .container {
     max-width: 700px;
 }
@@ -205,12 +205,28 @@ main {
     border-radius: 5px;
     margin-top: 2rem;
 }
+ 
+ 
+html {
+  height: 100%;
+}
 
-/* ---- Rodapé ---- */
+body {
+  
+  min-height: 100vh; 
+  display: flex;
+  flex-direction: column; 
+}
+
+
+main {
+  flex-grow: 1;
+}
+
+
 footer {
-    background: var(--text-color);
-    color: #fff;
-    text-align: center;
-    padding: 1.5rem 0;
-    margin-top: 2rem;
+  background-color: #333; 
+  color: white;
+  padding: 20px;
+  text-align: center;
 }
