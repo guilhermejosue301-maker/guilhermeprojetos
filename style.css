@@ -3,8 +3,8 @@
     --primary-color: #2a7dbe;
     --secondary-color: #004c8c;
     --accent-color: #fca311;
-    --text-color: #333;
-    --light-gray: #f4f4f4;
+    --text-color: #000000;
+    
 }
 
 * {
@@ -225,8 +225,17 @@ main {
 
 
 footer {
-  background-color: #333; 
+  background-color: #000000; 
   color: white;
   padding: 20px;
   text-align: center;
+}
+body {
+  
+  background-image: url('imagem/feche-o-trabalho-em-equipe-voluntario-de-pessoas-colocando-o-dedo-nas-maos-em-forma-de-estrela-juntospilha-de-maosunidade-e-trabalho-em-equipe-no-dia-mundial-meio-ambiente.jpg');
+  background-size: cover; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: #f0f0f0; 
 }
