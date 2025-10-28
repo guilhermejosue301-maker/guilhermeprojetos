@@ -1,46 +1,30 @@
-# Oi! Eu sou o Guilherme Josué
+# Projeto: Website da ONG Coração Solidário
+- Este repositório contém o código-fonte do site institucional da "ONG Coração Solidário", um projeto hospedado via GitHub Pages.
 
-Seja bem-vindo ao meu GitHub.
+# Sobre o Projeto
 
-## Sobre mim
-- Estudante de Análise e Desenvolvimento de Sistemas (ADS)
-- Apaixonado por tecnologia, programação e soluções criativas
-- Gosto de aprender na prática, criando projetos e testando ideias
-- Sempre buscando evoluir e escrever códigos melhores
+- O site da ONG Coração Solidário foi desenvolvido para servir como a principal plataforma digital da organização. Para ajudar pessoas em situação de vulnarabilidade, oferecendo recursos, informações e oportuidades para melhorar vidas.
+Lembrando que esse website é um projeto fictício criado para fins educacionais e de portfólio, e não está assosciado a nenhuma organização real.
 
-## Tecnologias que uso / estudo
+# Estrutura do Site
+O site está estruturado com as seguintes páginas principais.
+- Início (index.html): Página principal que apresenta a missão da ONG e uma seção "Sobre Nós".
+- Projetos (projetos.html): Uma seção destinada a detalhar os projetos e iniciativas da organização.
+- Participe (cadastro.html): Uma página para que os visitantes possam se cadastrar.
 
-<img
-	align="left"
-	alt="Python"
-	title="Python"
-	width="30px"
-	style="padding-right: 10px;"
-	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/> 
-<img
-	align="left"
-	alt="JavaScript"
-	title="JavaScript"
-	width="30px"
-	style="padding-right: 10px;"
-	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/> 
+# Tecnologias
+Este é um site estático, construído utilizando tecnologias web fundamentais:
+- HTML5 para fazer a estrutura do site.
+- CSS3 para fazer o estilo e o layout visual.
+- JavaScript para adicionar interatividade e funcionalidades dinâmicas.
 
-<br/>
-<br/>
+# Visualizar o Site
+Você pode acessar a versão ao vivo do projeto no seguinte link:
 
-## Projetos
-Aqui estão alguns dos meus projetos:
+https://guilhermejosue301-maker.github.io/guilhermeprojetos/index.html
 
-- [Calculadora simples](https://github.com/guilhermejosue301-maker/guilhermejosue301-maker/tree/main/Projeto)
-- [SiteONG](https://guilhermejosue301-maker.github.io/guilhermeprojetos/index.html)
-
-## Como falar comigo
-- [LinkedIn](https://www.linkedin.com/in/guilherme-josu%C3%A9-62405934b/)
-- [Instagram](https://www.instagram.com/guilherme.josue/)
-
-> “A melhor forma de aprender é construindo.!”
+# Autor
+Feito por mim Guilherme josué - Estudante de análise e desenvolvimento de sistemas(ADS)
 
 
  
