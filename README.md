@@ -24,7 +24,7 @@ Você pode acessar a versão ao vivo do projeto no seguinte link:
 https://guilhermejosue301-maker.github.io/guilhermeprojetos/index.html
 
 # Autor
-Feito por mim Guilherme josué - Estudante de análise e desenvolvimento de sistemas(ADS)!
+Feito por mim Guilherme josué - Estudante de análise e desenvolvimento de sistemas(ADS).
 
 
  
